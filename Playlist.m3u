@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:-1,Surya
-https://dl5.hotshare.online/Suryas_Saturday_2024_720p_HD.mp4
-#EXTINF:-1,Mankatha (2011)
-https://drive.google.com/uc?export=download&id=1hqAT3NuQ8HcvSKsb9NvFSs7r-U1Nj4vt
+#EXTINF:-1, Your Movie Title
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:http-reconnect-streams=1
+#EXTVLCOPT:http-user-agent=YourCustomUserAgent
+#EXTVLCOPT:http-referrer=YourReferrer
+#EXTVLCOPT:rtsp-tcp
+#EXTVLCOPT:video-filter=deinterlace
+#EXTVLCOPT:audio-filter=normalize
+https://drive.google.com/uc?export=download&id=1180m8sWiHNaYOvOQmxc-1XGXy8gG9PlV
