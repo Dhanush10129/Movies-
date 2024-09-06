@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1, Your Movie Title
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-reconnect-streams=1
-#EXTVLCOPT:http-user-agent=YourCustomUserAgent
-#EXTVLCOPT:http-referrer=YourReferrer
-#EXTVLCOPT:rtsp-tcp
-#EXTVLCOPT:video-filter=deinterlace
-#EXTVLCOPT:audio-filter=normalize
+#EXTINF:95,My Google Drive Video
 https://drive.google.com/uc?export=download&id=1180m8sWiHNaYOvOQmxc-1XGXy8gG9PlV
